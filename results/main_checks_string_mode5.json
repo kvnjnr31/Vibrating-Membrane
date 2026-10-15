@@ -1,0 +1,90 @@
+{
+ "bandwidth": {
+  "0.02": {
+   "final_energy": 262.01088414397657,
+   "min_purity": 0.31817645450769205,
+   "max_node_error": 1.7000553203543243,
+   "max_detuning": 5.501615626879097,
+   "peak_min": 0.07060174578424559,
+   "peak_max": 1.0,
+   "peak_end": 0.6429696518638089,
+   "min_energy_ratio": 0.0049782863640521376,
+   "final_energy_ratio": 0.40567903085199397
+  },
+  "0.03": {
+   "final_energy": 596.9423379958121,
+   "min_purity": 0.9862015890104575,
+   "max_node_error": 0.14511861709847285,
+   "max_detuning": 1.3010188857015919,
+   "peak_min": 0.581894268013238,
+   "peak_max": 1.0,
+   "peak_end": 0.9619744476912476,
+   "min_energy_ratio": 0.32870488580221624,
+   "final_energy_ratio": 0.9242630890844681
+  },
+  "0.07": {
+   "final_energy": 644.4446707996725,
+   "min_purity": 0.9994806489546838,
+   "max_node_error": 0.027923727049730118,
+   "max_detuning": 0.48414331779730685,
+   "peak_min": 0.6327910823208962,
+   "peak_max": 1.0,
+   "peak_end": 0.998808198020799,
+   "min_energy_ratio": 0.9638616394340099,
+   "final_energy_ratio": 0.9978123250180777
+  },
+  "0.15": {
+   "final_energy": 645.3328989082881,
+   "min_purity": 0.9997097160251739,
+   "max_node_error": 0.016822593368544858,
+   "max_detuning": 0.3182196220863946,
+   "peak_min": 0.6323663619050941,
+   "peak_max": 1.0021254444077545,
+   "peak_end": 0.9995175943893209,
+   "min_energy_ratio": 0.984070770012786,
+   "final_energy_ratio": 0.9991875942915507
+  }
+ },
+ "calibration": {
+  "True": {
+   "detuning": 0.0012459857656447564,
+   "energy_ratio": 1.00004046893344
+  },
+  "False": {
+   "detuning": -0.2228309278936802,
+   "energy_ratio": 0.8315770429983499
+  }
+ },
+ "pull_in": {
+  "bw0.03_off0.01": {
+   "final_detuning": 0.8860031069554946,
+   "start_linewidths": 0.8859855980021843,
+   "energy_ratio": 0.2448716535207319
+  },
+  "bw0.03_off0.03": {
+   "final_detuning": 2.657976801723579,
+   "start_linewidths": 2.657956794006553,
+   "energy_ratio": 0.03690487008107366
+  },
+  "bw0.03_off0.1": {
+   "final_detuning": 8.85985876393763,
+   "start_linewidths": 8.859855980021843,
+   "energy_ratio": 0.005771813218519259
+  },
+  "bw0.1_off0.01": {
+   "final_detuning": 0.88600311150695,
+   "start_linewidths": 0.8859855980021843,
+   "energy_ratio": 0.24487165093686084
+  },
+  "bw0.1_off0.03": {
+   "final_detuning": 2.6580250199123245,
+   "start_linewidths": 2.657956794006553,
+   "energy_ratio": 0.036903619529688014
+  },
+  "bw0.1_off0.1": {
+   "final_detuning": 8.859885749838758,
+   "start_linewidths": 8.859855980021843,
+   "energy_ratio": 0.0057717985812506525
+  }
+ }
+}

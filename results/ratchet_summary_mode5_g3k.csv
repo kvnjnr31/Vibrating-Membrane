@@ -1,0 +1,4 @@
+run,kind,cycles,mean_start,mean_end,first_cycle,per_cycle,median_displacement,lower_half_start,lower_half_end,grains
+fig_ratchet_mode5_g3k_fwd_s0,ratchet,4,4.880,7.634,1.251,0.689,2.558,1596,254,3000
+fig_ratchet_mode5_g3k_fwd_s0,control,2,4.880,4.545,-0.152,-0.167,-0.198,1596,1803,3000
+fig_ratchet_mode5_g3k_rev_s0,ratchet,4,5.134,2.304,-1.251,-0.708,-2.567,1404,2752,3000

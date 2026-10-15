@@ -1,0 +1,8 @@
+run,kind,cycles,mean_start,mean_end,first_cycle,per_cycle,median_displacement,lower_half_start,lower_half_end,grains
+fig_ratchet_mode5_fwd_s0,ratchet,4,5.108,7.783,1.366,0.669,2.526,238,36,500
+fig_ratchet_mode5_fwd_s0,control,2,5.108,4.715,-0.102,-0.196,-0.180,238,285,500
+fig_ratchet_mode5_fwd_s1,ratchet,4,4.704,7.675,1.435,0.743,3.035,278,48,500
+fig_ratchet_mode5_fwd_s2,ratchet,4,4.859,7.678,1.132,0.705,2.535,270,47,500
+fig_ratchet_mode5_rev_s0,ratchet,4,5.367,2.266,-1.458,-0.775,-3.133,213,467,500
+fig_ratchet_mode5_rev_s1,ratchet,4,5.026,2.154,-1.228,-0.718,-2.545,244,468,500
+fig_ratchet_mode5_rev_s2,ratchet,4,5.092,2.183,-1.285,-0.727,-2.529,241,462,500

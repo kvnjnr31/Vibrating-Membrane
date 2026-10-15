@@ -1,0 +1,92 @@
+{
+ "model": "string",
+ "mode": [
+  5
+ ],
+ "a0": -0.18,
+ "a1": 0.18,
+ "rate": 0.00018,
+ "t_spin": 200.0,
+ "t_hold": 400.0,
+ "beta": 0.015,
+ "predicted_final_energy": 645.8575973071859,
+ "node_travel": [
+  2.0113311159013194,
+  3.0170665699997588,
+  3.017066569999746,
+  2.0113311159012524
+ ],
+ "resonance": [
+  1.3289783970032765,
+  1.5705810841108678,
+  1.3289783970033135
+ ],
+ "drives": {
+  "pll": {
+   "final_energy": 645.1405126789729,
+   "min_purity": 0.9996875844695968,
+   "max_node_error": 0.019072593321207698,
+   "max_detuning": 0.3961910962581398,
+   "peak_min": 0.632518732370318,
+   "peak_max": 1.0007930940572987,
+   "peak_end": 0.9993562555272156,
+   "min_energy_ratio": 0.9801284462090946,
+   "final_energy_ratio": 0.9988897171277341
+  },
+  "pll+agc": {
+   "final_energy": 646.3902589471484,
+   "min_purity": 0.9996323792794287,
+   "max_node_error": 0.021973739636590217,
+   "max_detuning": 0.4595455910320882,
+   "peak_min": 0.9370525074069481,
+   "peak_max": 1.1007494873802455,
+   "peak_end": 1.0001083370963855,
+   "min_energy_ratio": 0.9990249345909556,
+   "final_energy_ratio": 1.0008247354249349
+  },
+  "pll+gain": {
+   "final_energy": 645.2099018659178,
+   "min_purity": 0.9994895331046069,
+   "max_node_error": 0.02466832607835645,
+   "max_detuning": 1.5107470063163784,
+   "peak_min": 0.9833333576504343,
+   "peak_max": 1.0,
+   "peak_end": 0.9921475645591155,
+   "min_energy_ratio": 0.982692245010007,
+   "final_energy_ratio": 0.9989971544130338
+  },
+  "table+gain": {
+   "final_energy": 645.832729315656,
+   "min_purity": 0.999642317915461,
+   "max_node_error": 0.018521793815575727,
+   "max_detuning": 0.0,
+   "peak_min": 0.9840530134838015,
+   "peak_max": 1.0027693189860327,
+   "peak_end": 0.9928350752830867,
+   "min_energy_ratio": 0.999416123712516,
+   "final_energy_ratio": 0.9999614961693823
+  },
+  "table": {
+   "final_energy": 645.4567690221517,
+   "min_purity": 0.9997076016193182,
+   "max_node_error": 0.016381569260103923,
+   "max_detuning": 0.0,
+   "peak_min": 0.635850440247192,
+   "peak_max": 1.0003304109764946,
+   "peak_end": 1.0003304109764946,
+   "min_energy_ratio": 0.9886302030817609,
+   "final_energy_ratio": 0.9993793859719149
+  },
+  "table+slowgain": {
+   "final_energy": 654.5628974060943,
+   "min_purity": 0.9997066067489347,
+   "max_node_error": 0.016388083696589284,
+   "max_detuning": 0.0,
+   "peak_min": 0.9219245147613473,
+   "peak_max": 1.1353502181893287,
+   "peak_end": 1.0073497377204161,
+   "min_energy_ratio": 0.9990710666067486,
+   "final_energy_ratio": 1.013478667952818
+  }
+ }
+}

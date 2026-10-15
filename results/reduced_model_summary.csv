@@ -1,0 +1,19 @@
+offloaded share
+run,d,offloaded,returned,share,model_fitted,model_measured
+_ret,2.0,22865,418,0.982,0.9861,0.9886
+_ret,4.0,14633,708,0.9538,0.9503,0.9574
+_ret,6.0,10775,1770,0.8589,0.8577,0.872
+_ret,8.0,8757,5702,0.6056,0.6184,0.6385
+_ret_s1,6.0,10711,1769,0.8583,0.8577,0.872
+_ret_s1,8.0,8936,5770,0.6076,0.6184,0.6385
+
+runs (feed and count over the second half)
+d,feed_sim,feed_mod,N_sim,N_mod,off_sim,off_mod,ret_sim,ret_mod,on_sim,on_mod,misfit
+4,0.25,0.25,2901,2909,1.463e+04,1.453e+04,708,733,9,9,0.0158
+6,0.2173,0.2,3008,3036,1.078e+04,9964,1770,1830,8,7,0.08305
+8,0.2493,0.2081,2972,3073,8757,7428,5702,5868,12,7,0.1036
+
+seeds
+d,seed_vs_seed,model_vs_seed0,model_vs_seed1,off_seed0,off_seed1,ret_seed0,ret_seed1
+6,0.09504,0.08305,0.1081,1.078e+04,1.071e+04,1770,1769
+8,0.09046,0.1036,0.1052,8757,8936,5702,5770

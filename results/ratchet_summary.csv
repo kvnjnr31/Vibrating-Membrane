@@ -1,0 +1,17 @@
+run,kind,mean_start,mean_end,per_cycle_first3,median_displacement,lower_half_start,lower_half_end,grains
+forward,ratchet,5.202,7.533,0.599,2.015,236,45,500
+forward,control,5.202,4.812,-0.127,-0.306,236,275,500
+forward_s1,ratchet,4.950,7.548,0.651,2.531,256,39,500
+forward_s1,control,4.950,4.801,-0.018,-0.062,256,278,500
+forward_s2,ratchet,4.947,7.347,0.613,2.493,251,57,500
+forward_s2,control,4.947,4.555,-0.056,-0.086,251,287,500
+negative,ratchet,5.151,7.603,0.632,2.385,228,47,500
+negative,control,5.151,4.567,-0.098,-0.675,228,279,500
+positive,ratchet,5.283,7.575,0.562,1.899,224,45,500
+positive,control,5.283,5.405,-0.002,0.118,224,219,500
+reverse,ratchet,5.277,2.668,-0.655,-2.664,228,444,500
+reverse,control,5.277,5.406,0.030,0.152,228,206,500
+reverse_s1,ratchet,4.919,2.544,-0.583,-2.210,246,448,500
+reverse_s1,control,4.919,5.351,0.064,0.329,246,218,500
+reverse_s2,ratchet,4.996,2.436,-0.675,-2.655,241,459,500
+reverse_s2,control,4.996,5.295,0.058,0.110,241,218,500
